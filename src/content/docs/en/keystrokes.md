@@ -58,7 +58,7 @@ While in the [Quick Window](/en/quick-window) or [Image Window](/en/image-window
 
     - Flip Horizontal `Ctrl-[H]`
     - Flip Vertical `Ctrl-[V]`
-    - Rotate 90 degrees clockwise `Ctrl-O`
+    - Rotate 90 degrees clockwise `Ctrl-[O]`
     - Rotate 90 degrees counter-clockwise
 
     ![Orientation Menu](/keystrokes/orientation.png)
