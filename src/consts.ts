@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'IDS7 CUSTOM REFERENCE',
+	title: 'NYGH IDS7',
 	description: 'Custom NYGH documentation for the Sectra IDS7 Software.',
 	defaultLanguage: 'en-us',
 } as const;
