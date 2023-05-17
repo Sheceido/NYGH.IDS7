@@ -137,9 +137,10 @@ This is the main screen upon loading into IDS7 PACS.
 <br />
 
 - **History**:
-    ![History Back and Forward](/basics/history-fwd-back.png)
     <br /><br />
     - Allows navigation of recently visited patient jackets utilizing the "Back" and "Forward" buttons on the toolbar
+    <br /><br />
+    ![History Back and Forward](/basics/history-fwd-back.png)
     <br /><br />
     - We can also access history via the left side-panel:
     <br /><br />

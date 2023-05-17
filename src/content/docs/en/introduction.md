@@ -3,7 +3,7 @@ title: "Introduction"
 description: "Docs intro"
 ---
 
-##### **Welcome to the custom *and* unofficial Sectra IDS7 documentation at NYGH!**
+#### **Welcome to the unofficial Sectra IDS7 documentation at NYGH!**
 
 Here you will find the accumulated knowledge for quick-referencing the IDS7 software functionality and relevant workflows to follow.
 

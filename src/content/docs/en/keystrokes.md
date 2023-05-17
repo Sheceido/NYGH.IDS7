@@ -15,8 +15,8 @@ While in the [Quick Window](/en/quick-window) or [Image Window](/en/image-window
 
 ### 🔍 **Zoom**
 
-- Hold `Right-Click`, `Move` mouse 🖱️   **OR**
-- Hold `Ctrl`+`Left-Click`, `Move` mouse 🖱️  **OR**
+- Hold `Right-Click`, `Move` mouse 🖱️ &emsp;&emsp;&emsp;&emsp; **OR**
+- Hold `Ctrl`+`Left-Click`, `Move` mouse 🖱️ &emsp;&emsp; **OR**
 - Tap `Ctrl-[G]`⌨️ once to open a static a static, resizable zoom-box.
     
     <br />
@@ -60,3 +60,17 @@ While in the [Quick Window](/en/quick-window) or [Image Window](/en/image-window
     - Flip Vertical `Ctrl-[V]`
     - Rotate 90 degrees clockwise `Ctrl-O`
     - Rotate 90 degrees counter-clockwise
+
+    ![Orientation Menu](/keystrokes/orientation.png)
+
+### **Reset Image**
+
+- Undo changes to the image
+- `Right-Click` the image and find the options:
+
+    <br />
+
+    - **[Reset]** `Ctrl-[R]`
+    - **[Reset to Original]** `Ctrl-Shift-[R]`
+
+    ![Reset](/keystrokes/reset.png)

@@ -45,8 +45,12 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Matrix Window', link: 'en/matrix-window' },
 			{ text: 'Image Window', link: 'en/image-window' },
 		],
+		'Workflows': [
+			{ text: 'Ultrasound', link: 'en/ultrasound-workflow' },
+		],
 		'Tools Quick Reference': [
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
+			{text: 'Instant Messenger', link: 'en/instant-message' },
 		]
 	},
 };
