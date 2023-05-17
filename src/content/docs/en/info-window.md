@@ -150,7 +150,3 @@ This is the main screen upon loading into IDS7 PACS.
     - Filter through the history list using the text boxes under the relevant column criterias
     <br /><br />
     ![History Center Panel](/basics/history-center-panel.png)
-
-<br /><br /><br /><br />
-
----

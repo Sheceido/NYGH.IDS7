@@ -21,7 +21,8 @@ const { title, headings, githubEditUrl } = Astro.props;
 		<slot />
 	</section>
 	<nav class="block sm:hidden">
-		<MoreMenu editHref={githubEditUrl} />
+		<!-- <TableOfContents client:media="(max-width: 50em)" headings={headings} /> -->
+		<!-- <MoreMenu editHref={githubEditUrl} /> -->
 	</nav>
 </article>
 
