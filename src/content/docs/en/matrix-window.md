@@ -88,15 +88,15 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ### Assign Reading Physician
 
-- Please see [Assign Reading Physician](/en/assign-physician)
+- Please see [Assign Reading Physician](/en/assign-physician)🚧
 
 ### Priority Status
 
-- Please see [Priority Status](/en/priority-status)
+- Please see [Priority Status](/en/priority-status)🚧
 
 ### STAT
 
-- Please see [STAT](/en/stat)
+- Please see [STAT](/en/stat)🚧
 
 ### Deleting Images
 

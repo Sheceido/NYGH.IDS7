@@ -60,8 +60,34 @@ This is the main screen upon loading into IDS7 PACS.
 
 ![Complete Worklist Tree](/basics/complete-worklist-tree.png)
 
-- Shows all available premade worklists, sorted by System, Role, and User levels
-- **History Tab:**
+Shows all available premade worklists, sorted by System, Role, and User levels
+
+- **System Worklists:**
+    
+    <br />
+
+    - Viewable by all users
+
+    <br />
+
+- **Role Worklists:**
+
+    <br />
+
+    - Users will only have access to worklists associated with their assigned role (i.e. Technologists will only see technologist worklists and Radiologists will only see Radiologist Worklists)
+
+    <br />
+
+- **User Worklists:**
+
+    <br />
+
+    - Visible to the logged-in user only
+    - Can create your very own [Interesting Cases Folder](#interesting-cases-folder)
+
+    <br />
+
+- **History:**
     
     <br />
 
@@ -74,8 +100,17 @@ This is the main screen upon loading into IDS7 PACS.
 
     <br />
     
-    - For any previous searches you've made, the results will still be available to view again until a new search is made
-    - See [Notable Functionalities](#notable-functionalities) for more details
+    - Populates when a search is performed
+    - Previous search results will still be available to view again until a new search is made
+    - Please see [Patient Search](#patient-search) for more details
+
+    <br />
+
+- **Imported:**
+
+    <br />
+
+    - Only visible if images have been imported, i.e. from a CD/DVD
 
 <br />
 
@@ -99,6 +134,11 @@ This is the main screen upon loading into IDS7 PACS.
 
 - a.k.a.~ Patient Jacket
 - All examinations for the selected patient will be displayed
+- The `Items` column indicates the total image count for the study
+- The `Series` column indicates the total number of "series" / thumbnails within the study
+
+> 💡 **Tip:** If these columns are not present, `Right-Click` the headers, select `Add Column`, and then add these relevant columns to your panel!
+
 - `Double-Clicking` on the on an exam will set it as the "current exam", marking it with a green arrow, and opening the study into the [Image Window](/en/image-window)
 
 <br/>
@@ -173,6 +213,7 @@ This is the main screen upon loading into IDS7 PACS.
 
 ![History Center Panel](/basics/history-center-panel.png)
 
+- Contains the last 100 cases accessed by the user, sorted by most recent at the top
 - Filter through the history list using the text boxes under the relevant columns
 
 <br />

@@ -5,7 +5,7 @@ description: "Explanation of the steps to delete images in a series"
 
 Deleting images from an ultrasound series is possible using Sectra’s `Stack Tool`, accessed via the Thumbnail Panel
 
-> 💡 **Tip:** the Thumbnail Panel is most easily found in the Matrix Window, but both the [Information](/en/info-window) and [Image](/en/image-window) Windows have this region as well!
+> 💡 **Tip:** the Thumbnail Panel is most easily found in the [Matrix](/en/matrix-window) Window, but both the [Information](/en/info-window) and [Image](/en/image-window) Windows have this region as well!
 
 ### Instructions
 
