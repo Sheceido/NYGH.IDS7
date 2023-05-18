@@ -50,6 +50,7 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Tools Quick Reference': [
 			{text: 'Deleting Images', link: 'en/delete-images' },
+			{text: 'Exam Comments', link: 'en/info-window#exam-comments' },
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
 			{text: 'Instant Messenger', link: 'en/instant-message' },
 		]

@@ -157,6 +157,8 @@ This is the main screen upon loading into IDS7 PACS.
 
 ![Search Criteria](/basics/search-criteria.png)
 
+<br />
+
 ### History
 
 ![History Back and Forward](/basics/history-fwd-back.png)
@@ -172,6 +174,47 @@ This is the main screen upon loading into IDS7 PACS.
 ![History Center Panel](/basics/history-center-panel.png)
 
 - Filter through the history list using the text boxes under the relevant columns
+
+<br />
+
+### Exam Comments
+
+#### Add
+
+- `Right-Click` the study in the patient jacket, then select `Examination Comments...`
+
+![Exam Comments Selection](/basics/exam-comments-1.png)
+
+- Enter in your comment, then click `Save`
+
+![Exam Comments Selection](/basics/exam-comments-2.png)
+
+- Your comment should now be visible in the [Request View](#request-view)
+
+#### Edit / Remove
+
+- As above, `Right-Click` and select `Examination Comments...`
+- Choose `Switch to edit mode`:
+
+![Exam Comments Selection](/basics/exam-comments-3.png)
+
+- Edit or delete the text that was previously entered, then click `Save`
+
+- Your comment should now changed / removed when viewed in the [Request View](#request-view)
+
+<br />
+
+### Interesting Cases Folder
+
+- Generate a `Static Worklist` by:
+
+    <br />
+
+    1. `Right-Click`ing the User Worklist folder
+    2. Select `New Static Worklist`
+    3. give the new static worklist a name
+
+    4. From here, you may return to a different worklist / search a patient with an interesting case, then drag-and-drop the case into your static worklist
 
 //TODO:
 - Set Reading Physician

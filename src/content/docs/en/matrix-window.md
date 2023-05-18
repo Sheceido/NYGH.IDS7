@@ -37,7 +37,8 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ![Layout Protocol](/basics/matrix-layout-protocol.png)
 
-- Preset layouts are presented here
+- An overview of all layouts within the current presentation
+- Layouts are the different reading pages in the display protocol
 - Choosing different layouts will modify the [Layout View](#layout-view)
 
 ### Patient History
@@ -55,7 +56,11 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 ## Center Screen
 
 ### Layout View
-//TODO
+
+![Matrix Layout View](/basics/matrix-layout-view.png)
+
+- Used mainly to prepare images for viewing in the [Image Window](/en/image-window)
+- `Right-Click` the layout in the region to change the number of windows for displaying images
 
 ### Thumbnail Panel
 
@@ -81,6 +86,17 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
     > 📝 **Note:** The numbers in the Matrix Window may not always match the Series and Items columns in the information window since nonvisible objects counted in these columns
 
+### Assign Reading Physician
+
+- Please see [Assign Reading Physician](/en/assign-physician)
+
+### Priority Status
+
+- Please see [Priority Status](/en/priority-status)
+
+### STAT
+
+- Please see [STAT](/en/stat)
 
 ### Deleting Images
 

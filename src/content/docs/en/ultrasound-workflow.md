@@ -34,7 +34,7 @@ In the [Information Window](/en/info-window) by...
 
 ### Launch [Quick Window](/en/quick-window)
 
-- Via `Double-Click`ing the thumbnails at the bottom once a study is selected
+- `Double-Click` the thumbnails at the bottom once a study is selected
 - Quick Window will allow you to look through the corresponding series thumbnail you opened
 
 > 💡 **Tip:** Use the Quick Window for when you need to briefly screen through a series
