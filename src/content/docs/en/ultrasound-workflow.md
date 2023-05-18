@@ -5,10 +5,10 @@ description: "Step-by-step workflow guide for the Ultrasound modality"
 
 ---
 
-### 1. Find Patient
+## 1. Find Patient
 In the [Information Window](/en/info-window) by...
 
-- **Preset Worklists** on the left side panel:
+- **Modality Worklists** on the left side panel:
 
     ![Worklist Panel](/basics/info-worklist-panel.png)
 
@@ -24,10 +24,28 @@ In the [Information Window](/en/info-window) by...
 
     ![Search Criteria](/basics/search-criteria.png)
 
-From here you have two options:
-    
-- Launch [Quick Window](/en/quick-window) via `Double-Click`ing the thumbnails at the bottom once a study is selected, to *quickly* look through a series
+<br />
 
-- Launch [Image Window](/en/image-window) via `Double-Click`ing the study
+---
 
-### 2. //TODO
+<br />
+
+## 2. Enter Image Viewing
+
+### Launch [Quick Window](/en/quick-window)
+
+- Via `Double-Click`ing the thumbnails at the bottom once a study is selected
+- Quick Window will allow you to look through the corresponding series thumbnail you opened
+
+> 💡 **Tip:** Use the Quick Window for when you need to briefly screen through a series
+
+### Launch [Image Window](/en/image-window)
+
+- Via `Double-Click`ing the study you want to view in the patient jacket
+- Access the patient jacket by clicking the "thumbnail" icon on the toolbar at the top
+
+> 💡 **Tip:** Use the Image Window for looking at past history more thoroughly, especially for comparing side-by-side studies
+
+## 3. Complete and Verify
+
+- 
