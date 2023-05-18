@@ -17,7 +17,7 @@ While in the [Quick Window](/en/quick-window) or [Image Window](/en/image-window
 
 - Hold `Right-Click`, `Move` mouse 🖱️ &emsp;&emsp;&emsp;&emsp; **OR**
 - Hold `Ctrl`+`Left-Click`, `Move` mouse 🖱️ &emsp;&emsp; **OR**
-- Tap `Ctrl-[G]`⌨️ once to open a static a static, resizable zoom-box.
+- Tap `Ctrl-[G]`⌨️ once to open a static, resizable zoom-box.
     
     <br />
 
