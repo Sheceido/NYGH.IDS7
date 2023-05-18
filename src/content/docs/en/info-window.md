@@ -203,7 +203,7 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 ![History Back and Forward](/basics/history-fwd-back.png)
 
-- The `Back | Forward` buttons on the toolbar allows navigation of recently visited patient jackets utilizing the "Back" and "Forward" buttons on the toolbar
+- The `Back | Forward` buttons on the toolbar allows navigation of recently visited patient jackets
 
 - We can also access history via the left side-panel:
 
