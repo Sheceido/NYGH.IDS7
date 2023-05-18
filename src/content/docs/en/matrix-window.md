@@ -9,40 +9,79 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ![Matrix Window](/basics/matrix-window.png)
 
-### Top Side
+---
 
-#### Toolbar
-//TODO
+## Top Side
 
-#### Patient Banner
-//TODO
+### Toolbar
+
+![Matrix Toolbar](/basics/matrix-toolbar.png)
+
+- Most commonly used tools
+
+> 💡 **Tip:** `Right-Click` the toolbar, and select *Customize Toolbar* to add, remove, or reorder your buttons!
+
+### Patient Banner
+
+![Patient Banner](/basics/patientbanner.png)
+
+- Displays selected patient's name/DOB/sex/MRN, and other relevant alerts (i.e.~ allergies)
+
+<br />
 
 ---
 
-### Left Side
+## Left Side
 
-#### Layout Protocol
-//TODO
+### Layout Protocol
 
-#### Patient History
+![Layout Protocol](/basics/matrix-layout-protocol.png)
 
+- Preset layouts are presented here
+- Choosing different layouts will modify the [Layout View](#layout-view)
+
+### Patient History
+
+![Matrix Window Patient History](/basics/matrix-patient-jacket.png)
+
+- a.k.a.~ patient jacket
 - All previous studies the patient has had is populated here
 
-    ![Matrix Window Patient History](/basics/matrix-patient-jacket.png)
-
-- `Double-Click`ing another study other than the currently selected brings forth the study into the [Thumbnail Panel](#center-screen)
+- `Double-Click` another study other than the current one (denoted by the green arrow) brings forth the study into the [Thumbnail Panel](#thumbnail-panel)
 
 
 ---
 
-### Center Screen
+## Center Screen
 
-#### Layout View
+### Layout View
 //TODO
 
-#### Thumbnail Panel
-- The top-left number on each thumbnail correspond the image series stack size
+### Thumbnail Panel
 
 ![Thumbnails and Series](/basics/matrix-window-thumbnail.png)
 
-- Modify size of the picture using the thumbnail slider: &emsp; ![Thumbnail Slider](/basics/thumbnail-sizing.png)
+- Overview of all series stacks available in the study
+- Number in the top-left-corner of each thumbnail correspond the stack size
+
+- Modify size of the picture using the thumbnail slider: &emsp; 
+![Thumbnail Slider](/basics/thumbnail-sizing.png)
+
+---
+
+## Notable Functionality
+
+### Verify Stack Sizes
+
+![Verify Stacks](/basics/matrix-verify-stack.png)
+
+- Verify that the correct number of series and all slices (if applicable) have arrived in IDS7
+- The total series and image count are displayed in the examination bar.
+- The image count for each individual series is displayed in the series thumbnail.
+
+    > 📝 **Note:** The numbers in the Matrix Window may not always match the Series and Items columns in the information window since nonvisible objects counted in these columns
+
+
+### Deleting Images
+
+- Please see [Deleting Images](/en/delete-images)

@@ -63,7 +63,9 @@ While in the [Quick Window](/en/quick-window) or [Image Window](/en/image-window
 
     ![Orientation Menu](/keystrokes/orientation.png)
 
-### **Reset Image**
+<br />
+
+### 🔄 **Reset Image**
 
 - Undo changes to the image
 - `Right-Click` the image and find the options:

@@ -21,7 +21,7 @@ This is the main screen upon loading into IDS7 PACS.
 
 - Most commonly used tools, based on users preferred role
 
-> 💡 **Tip:** Buttons and sequence order can be changed by `Right-Click`ing the toolbar, and selecting *Customize Toolbar*
+> 💡 **Tip:** `Right-Click` the toolbar, and select *Customize Toolbar* to add, remove, or reorder your buttons!
 
 ### Patient Banner
 
@@ -172,3 +172,10 @@ This is the main screen upon loading into IDS7 PACS.
 ![History Center Panel](/basics/history-center-panel.png)
 
 - Filter through the history list using the text boxes under the relevant columns
+
+//TODO:
+- Set Reading Physician
+- Priority Status
+- STAT
+- NonCheck
+- Hold
