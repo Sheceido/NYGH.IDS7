@@ -42,15 +42,16 @@ export const SIDEBAR: Sidebar = {
 		'IDS7 GUI': [
 			{ text: 'Information Window', link: 'en/info-window' },
 			{ text: 'Quick Window🚧', link: 'en/quick-window' },
-			{ text: 'Matrix Window🚧', link: 'en/matrix-window' },
+			{ text: 'Matrix Window', link: 'en/matrix-window' },
 			{ text: 'Image Window🚧', link: 'en/image-window' },
 		],
 		'Workflows': [
-			{ text: 'Ultrasound🚧', link: 'en/ultrasound-workflow' },
+			{ text: 'Ultrasound', link: 'en/ultrasound-workflow' },
 		],
 		'Tools Quick Reference': [
+			{text: 'Annotation & Measurement🚧', link: 'en/text-and-distance' },
 			{text: 'Deleting Images', link: 'en/delete-images' },
-			{text: 'Exam Comments', link: 'en/info-window#exam-comments' },
+			{text: 'Exam Comments', link: 'en/exam-comments' },
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
 			{text: 'Instant Messenger🚧', link: 'en/instant-message' },
 		],

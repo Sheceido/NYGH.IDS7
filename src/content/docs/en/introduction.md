@@ -5,7 +5,7 @@ description: "Docs intro"
 
 #### **Welcome to the unofficial Sectra IDS7 documentation at NYGH!**
 
->  🚧 **Under Construction:** This site is currently in `BETA`, certain links will return `404 Error` as they are still under construction.
+>  🚧 **Under Construction:** This site is currently in `BETA`, certain links will return `404 Error` as they are still a work in progress.
 
 Here you will find the accumulated knowledge for quick-referencing the IDS7 software functionality and relevant workflows to follow.
 

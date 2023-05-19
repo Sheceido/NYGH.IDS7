@@ -11,7 +11,7 @@ This is the main screen upon loading into IDS7 PACS.
 
 ---
 
-## Top Side
+## 1. Top Side
 
 ### Menu Bar &emsp; ![Menu Bar](/basics/menubar.png)
 
@@ -44,7 +44,7 @@ This is the main screen upon loading into IDS7 PACS.
 
 <br/>
 
-## Left Side
+## 2. Left Side
 
 ### Worklist Groups
     
@@ -118,7 +118,7 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 <br />
 
-## Center Screen
+## 3. Center Screen
 
 ### Worklist Results
 
@@ -160,7 +160,7 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 <br/>
 
-## Right Side
+## 4. Right Side
 
 ### Request View
 
@@ -179,7 +179,7 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 <br/>
 
-## Notable Functionalities
+## 5. Notable Functionalities
 
 ### Patient Search
 - Located in the top toolbar, two possible Search Buttons to press
@@ -220,30 +220,24 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 ### Exam Comments
 
-#### Add
+- Please see [Exam Comments](/en/exam-comments).
 
-- `Right-Click` the study in the patient jacket, then select `Examination Comments...`
+### Set Reading Physician / Non-Checked Cases
 
-![Exam Comments Selection](/basics/exam-comments-1.png)
+- Please see:
 
-- Enter in your comment, then click `Save`
+    <br />
 
-![Exam Comments Selection](/basics/exam-comments-2.png)
+    - [Set Reading Physician](/en/ultrasound-workflow#set-reading-physician)
+    - [Non-Check Cases](/en/ultrasound-workflow#non-check-cases)
 
-- Your comment should now be visible in the [Request View](#request-view)
+### Priority Status
 
-#### Edit / Remove
+- Please see:
 
-- As above, `Right-Click` and select `Examination Comments...`
-- Choose `Switch to edit mode`:
+    <br />
 
-![Exam Comments Selection](/basics/exam-comments-3.png)
-
-- Edit or delete the text that was previously entered, then click `Save`
-
-- Your comment should now changed / removed when viewed in the [Request View](#request-view)
-
-<br />
+    - [Set Priorities](/en/ultrasound-workflow#5-set-priorities)
 
 ### Interesting Cases Folder
 
@@ -256,10 +250,3 @@ Shows all available premade worklists, sorted by System, Role, and User levels
     3. give the new static worklist a name
 
     4. From here, you may return to a different worklist / search a patient with an interesting case, then drag-and-drop the case into your static worklist
-
-//TODO:
-- Set Reading Physician
-- Priority Status
-- STAT
-- NonCheck
-- Hold

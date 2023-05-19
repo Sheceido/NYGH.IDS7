@@ -11,7 +11,7 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ---
 
-## Top Side
+## 1. Top Side
 
 ### Toolbar
 
@@ -31,7 +31,7 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ---
 
-## Left Side
+## 2. Left Side
 
 ### Layout Protocol
 
@@ -53,7 +53,7 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ---
 
-## Center Screen
+## 3. Center Screen
 
 ### Layout View
 
@@ -74,7 +74,7 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ---
 
-## Notable Functionality
+## 4. Notable Functionality
 
 ### Verify Stack Sizes
 
@@ -86,17 +86,22 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
     > 📝 **Note:** The numbers in the Matrix Window may not always match the Series and Items columns in the information window since nonvisible objects counted in these columns
 
-### Assign Reading Physician
+### Set Reading Physician / Non-Checked Cases
 
-- Please see [Assign Reading Physician](/en/assign-physician)🚧
+- Please see:
+
+    <br />
+
+    - [Set Reading Physician](/en/ultrasound-workflow#set-reading-physician)
+    - [Non-Check Cases](/en/ultrasound-workflow#non-check-cases)
 
 ### Priority Status
 
-- Please see [Priority Status](/en/priority-status)🚧
+- Please see:
 
-### STAT
+    <br />
 
-- Please see [STAT](/en/stat)🚧
+    - [Set Priorities](/en/ultrasound-workflow#5-set-priorities)
 
 ### Deleting Images
 
