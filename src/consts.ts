@@ -43,7 +43,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Information Window', link: 'en/info-window' },
 			{ text: 'Quick Window', link: 'en/quick-window' },
 			{ text: 'Matrix Window', link: 'en/matrix-window' },
-			{ text: 'Image Window🚧', link: 'en/image-window' },
+			{ text: 'Image Window', link: 'en/image-window' },
 		],
 		'Workflows': [
 			{ text: 'Ultrasound', link: 'en/ultrasound-workflow' },
