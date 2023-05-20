@@ -84,7 +84,7 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 - The total series and image count are displayed in the examination bar.
 - The image count for each individual series is displayed in the series thumbnail.
 
-    > 📝 **Note:** The numbers in the Matrix Window may not always match the Series and Items columns in the information window since nonvisible objects counted in these columns
+    > 📝 **Note:** The numbers in the Matrix Window may not always match the Series and Items columns in the information window since non-visible objects may be counted in these columns (i.e. unspecified images).
 
 ### Set Reading Physician / Non-Checked Cases
 

@@ -4,6 +4,13 @@ description: "Step-by-step workflow guide for the Ultrasound modality"
 ---
 
 ---
+If you have not familiarized yourself with the IDS7 GUI, please have a look at them before continuing:
+
+- [Information Window](/en/info-window) 
+- [Quick Window](/en/quick-window)
+- [Matrix Window](/en/matrix-window)
+- [Image Window](/en/image-window)
+
 
 ## 1. Find Patient
 In the [Information Window](/en/info-window) by...
@@ -74,13 +81,15 @@ For viewing previous or current images you've taken, adding annotations or dista
 
     > 📝 **Note:** Once a study is verified, it becomes available for the Radiologist to report!
 
+<br />
+
 ## 4. Assigning Cases
 
 Verified studies now need to be assigned:
 
 ### Set Reading Physician
 
-![Set Reading Physician](/workflow/us/set-reading-physician.png)
+![Set Reading Physician](/workflow/us/set-reading-physician-1.png)
 
 - `Right-Click` the study, hover over `[Reading Physician]`, then click:
 
@@ -88,7 +97,13 @@ Verified studies now need to be assigned:
 
 - Choose the Radiologist User Group, then set the Radiologist name.
 
+    ![Set Reading Physician Window](/workflow/us/set-reading-physician-2.png)
+
 > 💡 **Tip:** Add the column `Reading Physician` to the Worklist and/or Patient History panels to see the name of the physician assigned to each case!
+<br /><br />
+![Set Reading Physician Window](/workflow/us/set-reading-physician-3.png)
+
+<br />
 
 ### Non-Check Cases
 
@@ -107,6 +122,8 @@ Verified studies now need to be assigned:
     <br />
 
     -`"Unassigned Verified US Cases"` Worklist should now contain this study
+
+<br />
 
 ### On-Hold
 

@@ -7,7 +7,23 @@ Deleting images from an ultrasound series is possible using Sectra’s `Stack To
 
 > 💡 **Tip:** the Thumbnail Panel is most easily found in the [Matrix](/en/matrix-window) Window, but both the [Information](/en/info-window) and [Image](/en/image-window) Windows have this region as well!
 
-### Instructions
+## Instructions
+
+> ⚠️ **Warning:** Make sure you are deleting the intended series! If you accidently chose the wrong one and went through the deletion steps, you must contact PACS to revert these actions!
+
+### A) Delete a whole series
+
+1. In the Matrix Window, `Right-Click` the series with the unwanted images, and select `Reject Series`:
+
+    ![Reject Series](/basics/thumbnail-delete-5.png)
+
+2. Give a reason for rejection:
+
+    ![Reject Series Reason](/basics/thumbnail-delete-6.png)
+
+<br />
+
+### B) Delete images in a series
 
 1. Write down / remember the image numbers within the series you want to deleted
 
@@ -39,13 +55,13 @@ Deleting images from an ultrasound series is possible using Sectra’s `Stack To
 
 6. Click `Save` on the bottom-right of the Stack Tool Screen, then close out of it.
 
+> 📝 **Note:** It may take a few seconds for the new series to populate into the Thumbnail panel - you may press the `[F5]` key on the keyboard to manually refresh the window if the series hasn't appeared.
+
 <br />
 
 7. In the Matrix Window, `Right-Click` the series with the unwanted images, and select `Reject Series`:
 
 ![Reject Series](/basics/thumbnail-delete-5.png)
-
-> ⚠️ **Note:** Make sure you are deleting the intended series! If you accidently chose th wrong one and went through all the steps, you must contact PACS to revert these actions!
 
 - Give a reason for rejection:
 

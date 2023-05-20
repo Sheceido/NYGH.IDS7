@@ -53,9 +53,11 @@ export const SIDEBAR: Sidebar = {
 			{text: 'Deleting Images', link: 'en/delete-images' },
 			{text: 'Exam Comments', link: 'en/exam-comments' },
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
-			{text: 'Instant Messenger🚧', link: 'en/instant-message' },
+			{text: 'Instant Messenger', link: 'en/instant-message' },
+			{text: 'Query External Image🚧', link: 'en/query-external' },
 		],
 		'Advanced': [
+			{text: 'Recommended Setup🚧', link: 'en/recommended'},
 			{text: 'Personalized Hotkeys🚧', link: 'en/personal-hotkeys'},
 		],
 	},

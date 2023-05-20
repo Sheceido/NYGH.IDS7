@@ -241,12 +241,24 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 ### Interesting Cases Folder
 
-- Generate a `Static Worklist` by:
+- To create a `Static Worklist`:
 
     <br />
 
-    1. `Right-Click`ing the User Worklist folder
-    2. Select `New Static Worklist`
-    3. give the new static worklist a name
+    1. `Right-Click` the User Worklist folder and select `New Static Worklist`
 
-    4. From here, you may return to a different worklist / search a patient with an interesting case, then drag-and-drop the case into your static worklist
+    ![New Static Worklist](/basics/interesting-case-1.png)
+
+    <br />
+
+    2. Give the new static worklist a name
+
+    ![name the New Static Worklist](/basics/interesting-case-2.png)
+
+    <br />
+    
+    3. Your user worklist will now have a static worklist.
+
+    ![New Static Worklist created](/basics/interesting-case-3.png)
+
+    From here, you may return to a different worklist / search a patient with an interesting case, then drag-and-drop the case into your static worklist
