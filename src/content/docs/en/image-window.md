@@ -4,9 +4,8 @@ description: "Explanation of the Image Window"
 ---
 
 - Launch the Image Window via the button found on the toolbar. &emsp; ![Image Button](/basics/image-button-icon.png)
-- Used to review images in large sets based on layout configurations
-- Has many tools to manipulate images
-- Image overlay shows in greater depth about patient and technical information
+- Used to review images in large sets based on layout configurations, with tools to manipulate images
+- Image overlay shows in greater depth about patient and technical information (compared to the [Quick Window](/en/quick-window))
 
 ![Image Window](/basics/image-window.png)
 

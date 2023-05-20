@@ -41,7 +41,7 @@ export const SIDEBAR: Sidebar = {
 		],
 		'IDS7 GUI': [
 			{ text: 'Information Window', link: 'en/info-window' },
-			{ text: 'Quick Window🚧', link: 'en/quick-window' },
+			{ text: 'Quick Window', link: 'en/quick-window' },
 			{ text: 'Matrix Window', link: 'en/matrix-window' },
 			{ text: 'Image Window🚧', link: 'en/image-window' },
 		],

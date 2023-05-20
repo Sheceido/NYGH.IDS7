@@ -13,7 +13,7 @@ This window is accessed when you `Double-Click` on thumbnails
 
 ## Notable Functionality
 
-### 1. Toggle between different series
+### 1. Toggle between different series in the same study
 
 - Use the "Monitor" buttons to toggle between series/screens
 
@@ -23,7 +23,30 @@ This window is accessed when you `Double-Click` on thumbnails
 
 <br />
 
-### 2. Change Tile Display
+### 2. Change to different series of a different study
+
+- Instead of navigating back to the [Information Window](/en/info-window), we can bring up the Patient History by:
+
+    <br />
+
+    1. `Right-Click` the image, then select `[Display Another Series...]`
+
+        ![Quick Display Another Series](/basics/quick-display-series.png)
+
+    <br />
+
+    - A new `Select Series` Window pops up, which contains that Patient History panel and the Thumbnail panel
+
+        ![Quick Select Series Window](/basics/quick-patient-history-thumbnail.png)
+
+    <br /><br />
+
+    2. `Double-Click` the study on the right to open it in the the Thumbnail panel, then `Double-Click` or `Drag` the thumbnail onto the Quick Window to view the series stack
+
+
+<br />
+
+### 3. Change Tile Display
 
 - To display more than one image at a time in the series, `Right-Click` the image, hover over `[Stack Tile]`, then select the desired grid display:
 
@@ -31,7 +54,7 @@ This window is accessed when you `Double-Click` on thumbnails
 
 <br />
 
-### 3. Annotations & Measurements
+### 4. Annotations & Measurements
 
 - Please see:
 
@@ -41,7 +64,7 @@ This window is accessed when you `Double-Click` on thumbnails
 
 <br />
 
-### 4. Image Manipulation
+### 5. Image Manipulation
 
 - Please see:
 

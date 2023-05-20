@@ -15,6 +15,8 @@ This is the main screen upon loading into IDS7 PACS.
 
 ### Menu Bar &emsp; ![Menu Bar](/basics/menubar.png)
 
+<br />
+
 ### Toolbar
 
 ![Toolbar](/basics/toolbar.png)
@@ -23,11 +25,15 @@ This is the main screen upon loading into IDS7 PACS.
 
 > 💡 **Tip:** `Right-Click` the toolbar, and select *Customize Toolbar* to add, remove, or reorder your buttons!
 
+<br />
+
 ### Patient Banner
 
 ![Patient Banner](/basics/patientbanner.png)
 
 - Displays selected patient's name/DOB/sex/MRN, and other relevant alerts (i.e.~ allergies)
+
+<br />
 
 ### Toolbar Alert
 
@@ -56,11 +62,13 @@ This is the main screen upon loading into IDS7 PACS.
 
 > 💡 **Tip:** Click the dropdown arrow beside `FAVORITES`, and then select *New Worklist Group* to generate a new empty group for use!
 
+<br />
+
 ### Complete Worklist Tree
 
 ![Complete Worklist Tree](/basics/complete-worklist-tree.png)
 
-Shows all available premade worklists, sorted by System, Role, and User levels
+Shows all available premade worklists, sorted by System, Role, and User levels:
 
 - **System Worklists:**
     
@@ -92,7 +100,7 @@ Shows all available premade worklists, sorted by System, Role, and User levels
     <br />
 
     - Allows you to quickly navigate your previously viewed cases
-    - See [Notable Functionalities](#notable-functionalities) for more details
+    - See [Notable Functionalities - History](#history) for more details
 
     <br />
 
@@ -168,6 +176,8 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 - Shows request, case history, and comments of selected study
 
+<br />
+
 ### Report View
 
 ![Report View](/basics/report-view.png)
@@ -220,7 +230,11 @@ Shows all available premade worklists, sorted by System, Role, and User levels
 
 ### Exam Comments
 
-- Please see [Exam Comments](/en/exam-comments).
+- Please see:
+
+    <br />
+
+    - [Exam Comments](/en/exam-comments)
 
 ### Set Reading Physician / Non-Checked Cases
 
