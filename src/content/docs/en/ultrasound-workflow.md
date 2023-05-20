@@ -153,11 +153,11 @@ Verified studies now need to be assigned:
 
 ## 5. Set Priorities
 
-By default, IDS7 priorities will mirror what is set in Cerner. Priorities are depicted as colored circles (i.e. Green = Routine, Red = STAT...)
+By default, IDS7 priorities will mirror what is set in Cerner, and does not need to be changed within the PACS system. Priorities are depicted as colored circles:
 
-A separate priority queue is available for cases that is an ***urgent, positive finding***, and requires attention by the Radiologist, bumping the study to the top of their worklist.
+![Priority Statuses](/workflow/us/priority-status.png)
 
-To set a `STAT` status on the study:
+There exists a separate priority queue for cases that is an ***urgent, positive finding***, and requires attention by the Radiologist. To set a `STAT` status on the study:
 
 1. Make sure the study has the green arrow pointing to it, if not `Right-Click` the study and:
 
@@ -166,3 +166,5 @@ To set a `STAT` status on the study:
 2. Click the `STAT` button on the toolbar:
 
     ![STAT button](/workflow/us/stat-button-icon.png)
+
+The `STAT` status will now be applied to the study, bumping it to the top of the Radiologist's worklist.

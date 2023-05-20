@@ -105,4 +105,8 @@ Launch the Matrix Window via the button found on the toolbar. &emsp; ![Matrix Bu
 
 ### Deleting Images
 
-- Please see [Deleting Images](/en/delete-images)
+- Please see:
+    
+    <br />
+
+    - [Deleting Images](/en/delete-images)

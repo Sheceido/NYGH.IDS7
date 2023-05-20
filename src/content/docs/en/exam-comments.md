@@ -13,7 +13,7 @@ description: Step-by-step guide on adding examination comments
 
 ![Exam Comments Selection](/basics/exam-comments-2.png)
 
-- Your comment should now be visible in the [Request View](#request-view)
+- Your comment should now be visible in the [Request View](/en/info-window#request-view)
 
 ### Edit / Remove
 
@@ -24,4 +24,4 @@ description: Step-by-step guide on adding examination comments
 
 - Edit or delete the text that was previously entered, then click `Save`
 
-- Your comment should now changed / removed when viewed in the [Request View](#request-view)
+- Your comment should now changed / removed when viewed in the [Request View](/en/info-window#request-view)

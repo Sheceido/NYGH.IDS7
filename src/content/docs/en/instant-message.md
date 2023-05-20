@@ -19,7 +19,7 @@ Launch the Chat Window in IDS7 via the `Chat` button found on the toolbar. &emsp
 
     ![Chat Status](/instantmsg/im-2.png)
 
-> 📝 **Note:** When status is set to `Do not disturb`, you will **not** be able to send *or* recieve any 1-on-1 chat messages - a prompt will remind you of that in the chat window: <br /><br />
+> 📝 **Note:** When status is set to `Do not disturb`, you will **not** be able to send *or* recieve any chat messages - a prompt will remind you of that in the chat window: <br /><br />
 ![Disabled chat](/instantmsg/im-3.png)
 
 <br />

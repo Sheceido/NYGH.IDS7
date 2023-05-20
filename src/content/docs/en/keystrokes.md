@@ -65,6 +65,10 @@ While in the [Quick Window](/en/quick-window) or [Image Window](/en/image-window
 
 <br />
 
+### ↩️ **Rotation**
+
+- Hold `Ctrl`+`Shift`, hold `Left-Click`, `Move` mouse 🖱️
+
 ### 🔄 **Reset Image**
 
 - Undo changes to the image
