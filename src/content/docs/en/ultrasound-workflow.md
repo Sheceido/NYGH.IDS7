@@ -66,7 +66,7 @@ For viewing previous or current images you've taken, adding annotations or dista
 - Make sure you have all the correct images and series
 - Set study now to `[VERIFIED]` status by:
 
-    a) `Right-Click` the study, hover over `[Status]`, then select `[VERIFIED]`
+    A) `Right-Click` the study, hover over `[Status]`, then select `[VERIFIED]`
 
     ![Verify Study Option 1](/basics/verify-study-1.png)
 
@@ -74,7 +74,7 @@ For viewing previous or current images you've taken, adding annotations or dista
 
     **OR**
 
-    b) Making sure that the Green Arrow is pointing to the exam you want to verify, click the `[VERIFIED]` button on the toolbar (if available)
+    B) Making sure that the Green Arrow is pointing to the exam you want to verify, click the `[VERIFIED]` button on the toolbar (if available)
 
     ![Verify Study Option 2](/basics/verify-study-2.png)
     
