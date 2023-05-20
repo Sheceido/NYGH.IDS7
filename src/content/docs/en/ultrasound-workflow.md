@@ -62,11 +62,11 @@ For viewing previous or current images you've taken, adding annotations or dista
 
 ## 3. Complete and Verify
 
-- Scan in any relevant paperwork, then complete the study in Cerner, causing IDS7 to automatically set the study to `COMPLETE` status as well
+- Scan in any relevant paperwork, then complete the study in Cerner, causing IDS7 to automatically set the study to `[COMPLETE]` status as well
 - Make sure you have all the correct images and series
-- Set study now to `VERIFIED` status by:
+- Set study now to `[VERIFIED]` status by:
 
-    a) `Right-Click` the study, hover over `[Status]`, then select `VERIFIED`
+    a) `Right-Click` the study, hover over `[Status]`, then select `[VERIFIED]`
 
     ![Verify Study Option 1](/basics/verify-study-1.png)
 

@@ -49,7 +49,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Ultrasound', link: 'en/ultrasound-workflow' },
 		],
 		'Tools Quick Reference': [
-			{text: 'Annotation & Measurement🚧', link: 'en/text-and-distance' },
+			{text: 'Annotation & Measurement', link: 'en/text-and-distance' },
 			{text: 'Deleting Images', link: 'en/delete-images' },
 			{text: 'Exam Comments', link: 'en/exam-comments' },
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
