@@ -69,3 +69,10 @@ You can configure the layout by:
     <br />
 
     - [Hotkeys and Keystroke](/en/hotkeys)
+
+
+## 5. Report
+
+If you are viewing a previous study that has a Radiologist report, you can press `[D]` on your keyboard to open up the report for your currently selected examination.
+
+Alternatively, you can return to the [Report View](/en/info-window#report-view) in the Information Window.
