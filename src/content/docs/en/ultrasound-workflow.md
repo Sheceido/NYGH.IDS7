@@ -11,6 +11,9 @@ If you have not familiarized yourself with the IDS7 GUI, please have a look at t
 - [Matrix Window](/en/matrix-window)
 - [Image Window](/en/image-window)
 
+<br />
+
+---
 
 ## 1. Find Patient
 In the [Information Window](/en/info-window) by...
@@ -18,6 +21,8 @@ In the [Information Window](/en/info-window) by...
 - **Modality Worklists** on the left side panel:
 
     ![Worklist Panel](/basics/info-worklist-panel.png)
+
+    - Click on the relevant worklist (i.e. `US General` or `US Today Arrived`) where your patient would be found
 
     **OR**
 
@@ -60,9 +65,16 @@ For viewing previous or current images you've taken, adding annotations or dista
 
 <br />
 
+---
+
+<br />
+
 ## 3. Complete and Verify
 
-- Scan in any relevant paperwork, then complete the study in Cerner, causing IDS7 to automatically set the study to `[COMPLETE]` status as well
+> ❗❗ **Note:** The order that which you complete on Cerner and verifying in Sectra IDS7 matters!
+
+- Scan in any relevant paperwork directly within IDS7 - `Right-Click` the study in the [Patient History panel](/en/info-window#patient-history), then select `[Scan in Paperwork***(?)]`
+- Complete the study in Cerner - IDS7 will then set the study to a `[COMPLETE]` status
 - Make sure you have all the correct images and series
 - Set study now to `[VERIFIED]` status by:
 
@@ -79,13 +91,22 @@ For viewing previous or current images you've taken, adding annotations or dista
     ![Verify Study Option 2](/basics/verify-study-2.png)
     
 
-    > 📝 **Note:** Once a study is verified, it becomes available for the Radiologist to report!
+    > 📝 **Note:** Once a study is verified, it becomes available for the Radiologist to report! If you need to add more images prior to when the Radiologist starts dicating your case, either set your study back to `[COMPLETE]` in IDS7, and/or place it in [`[HOLD]`](/en/ultrasound-workflow#on-hold).
+    <br/><br/>
+    Images will go unspecified if dictation has started on your case!
+
+<br />
+
+---
 
 <br />
 
 ## 4. Assigning Cases
 
-Verified studies now need to be assigned:
+Verified studies will now either have to:
+
+- [Set a reading physician](#set-reading-physician)
+- [Non-Check cases](#non-check-cases)
 
 ### Set Reading Physician
 
@@ -107,48 +128,15 @@ Verified studies now need to be assigned:
 
 ### Non-Check Cases
 
-- If the study is for an after-hours Radiologist:
+Please see:
 
-    <br />
-
-    - Make sure the Green Arrow is pointing to the study you want to assign a "Non-Check" status to, if not `Right-Click` the study and:
-
-        ![Set Current Exam](/basics/set-current-exam.png)
-
-    - On the toolbar at the top, click the `[NonCheck]` button:
-
-        ![Non-Check Button](/workflow/us/noncheck-button.png)
-
-    <br />
-
-    -`"Unassigned Verified US Cases"` Worklist should now contain this study
+- [US AM Breast](/en/ultrasound-am-breast)
+- [US After Hours](/en/ultrasound-after-hours)
 
 <br />
 
-### On-Hold
+---
 
-- Radiologists, technologists, and clerical staff can keep track of studies that need to be placed on hold
-- Any studies placed "on hold" status will be placed in the `"On Hold / Hold"` Worklist
-- To put a study on hold status:
-
-    <br />
-
-    1. Make sure the study has the green arrow pointing to it, if not `Right-Click` the study and:
-
-        ![Set Current Exam](/basics/set-current-exam.png)
-
-    2. Click the `[Hold]` button on the toolbar:
-
-        ![Hold button icon](/workflow/us/hold-button-icon.png)
-    
-    3. Give a reason for being on hold:
-
-        ![Hold reason](/workflow/us/hold-function-1.png)
-
-    4. Check that the status is applied by going into the `Hold` Worklist, or add the `Hold` column to see the status tag:
-
-        ![Hold reason column](/workflow/us/hold-function-2.png)
-    
 <br />
 
 ## 5. Set Priorities
@@ -183,3 +171,37 @@ There exists a separate priority queue for cases that is an ***urgent, positive 
     ![STAT button](/workflow/us/stat-button-icon.png)
 
 The `STAT` status will now be applied to the study, bumping it to the top of the Radiologist's worklist.
+
+<br />
+
+---
+
+<br />
+
+## Ancillary Functionality
+
+### On-Hold
+
+- Radiologists, technologists, and clerical staff can keep track of studies that need to be placed on hold
+- Any studies placed "on hold" status will be placed in the `"On Hold / Hold"` Worklist
+- To put a study on hold status:
+
+    <br />
+
+    1. Make sure the study has the green arrow pointing to it, if not `Right-Click` the study and:
+
+        ![Set Current Exam](/basics/set-current-exam.png)
+
+    2. Click the `[Hold]` button on the toolbar:
+
+        ![Hold button icon](/workflow/us/hold-button-icon.png)
+    
+    3. Give a reason for being on hold:
+
+        ![Hold reason](/workflow/us/hold-function-1.png)
+
+    4. Check that the status is applied by going into the `Hold` Worklist, or add the `Hold` column to see the status tag:
+
+        ![Hold reason column](/workflow/us/hold-function-2.png)
+    
+<br />

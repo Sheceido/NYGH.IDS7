@@ -9,7 +9,7 @@ Launch the Chat Window in IDS7 via the `Chat` button found on the toolbar. &emsp
 
 - Used to relay important details or link particular cases of interest, as detailed below
 
-> ‼️ **Important:** Chat windows are **never** deleted. It is always advisable to stay professional and cordial amongst fellow colleagues.
+> ‼️ **Important:** Chat windows logs may never be deleted, although they become hidden after an arbitrary amount of days. It is always advisable to stay professional and cordial amongst fellow colleagues.
 
 <br />
 

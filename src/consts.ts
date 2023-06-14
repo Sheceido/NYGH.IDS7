@@ -46,7 +46,9 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Image Window', link: 'en/image-window' },
 		],
 		'Workflows': [
-			{ text: 'Ultrasound', link: 'en/ultrasound-workflow' },
+			{ text: 'Ultrasound General🚧', link: 'en/ultrasound-workflow' },
+			{ text: 'US AM Breast', link: 'en/ultrasound-am-breast' },
+			{ text: 'US After Hours', link: 'en/ultrasound-after-hours' },
 		],
 		'Tools Quick Reference': [
 			{text: 'Annotation & Measurement', link: 'en/text-and-distance' },
@@ -58,7 +60,6 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Advanced': [
 			{text: 'Recommended Setup🚧', link: 'en/recommended'},
-			{text: 'Personalized Hotkeys🚧', link: 'en/personal-hotkeys'},
 		],
 	},
 };
