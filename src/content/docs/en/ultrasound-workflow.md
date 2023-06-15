@@ -69,11 +69,32 @@ For viewing previous or current images you've taken, adding annotations or dista
 
 <br />
 
-## 3. Complete and Verify
+## 3. Scan Paperwork
+
+Once you've finished checking over your images, you will scan in your paperwork directly within Sectra:
+
+- `Right-Click` the study in the [Patient History panel](/en/info-window#patient-history), then select `[Scan as Images]`
+
+![Scan As Images Option](/workflow/us/scan-images.png)
+
+> 📝 **Note:** There is no need to use the PacSCAN<sup>TM</sup> &nbsp;software anymore!
+
+Once your images are scanned through, it should populate as a series in your study.
+
+> 💡 **Tip:** Click the `[Refresh]` button on the toolbar or hit `[F5]` on your keyboard to refresh the information window if you want to update the thumbnail panel. You may also click into the study itself to check for the scanned paperwork series.
+
+Since the scanning command is directly from IDS7, this avoids the issue that had been an ongoing problem in the old workflow where completion in Cerner resulted in unspecified scanned paperwork.
+
+<br />
+
+---
+
+<br />
+
+## 4. Complete and Verify
 
 > ❗❗ **Note:** The order that which you complete on Cerner and verifying in Sectra IDS7 matters!
 
-- Scan in any relevant paperwork directly within IDS7 - `Right-Click` the study in the [Patient History panel](/en/info-window#patient-history), then select `[Scan in Paperwork***(?)]`
 - Complete the study in Cerner - IDS7 will then set the study to a `[COMPLETE]` status
 - Make sure you have all the correct images and series
 - Set study now to `[VERIFIED]` status by:
@@ -91,9 +112,9 @@ For viewing previous or current images you've taken, adding annotations or dista
     ![Verify Study Option 2](/basics/verify-study-2.png)
     
 
-    > 📝 **Note:** Once a study is verified, it becomes available for the Radiologist to report! If you need to add more images prior to when the Radiologist starts dicating your case, either set your study back to `[COMPLETE]` in IDS7, and/or place it in [`[HOLD]`](/en/ultrasound-workflow#on-hold).
+    > 📝 **Note:** Once a study is verified, it becomes available for the Radiologist to report! If you need to add more images prior to when the Radiologist starts dicating your case, either set your study back to `[COMPLETE]` in IDS7, and if you wish, place it on [`[HOLD]`](/en/ultrasound-workflow#on-hold).
     <br/><br/>
-    Images will go unspecified if dictation has started on your case!
+    Images may go unspecified if dictation has started on your case!
 
 <br />
 
@@ -101,7 +122,7 @@ For viewing previous or current images you've taken, adding annotations or dista
 
 <br />
 
-## 4. Assigning Cases
+## 5. Assigning Cases
 
 Verified studies will now either have to:
 
@@ -139,7 +160,7 @@ Please see:
 
 <br />
 
-## 5. Set Priorities
+## 6. Set Priorities
 
 ### Default Priority
 
