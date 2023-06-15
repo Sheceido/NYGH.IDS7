@@ -52,7 +52,7 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Tools Quick Reference': [
 			{text: 'Annotation & Measurement', link: 'en/text-and-distance' },
-			{text: 'Scanning Paperwork', link: 'en/ultrasound-workflow#3-scan-images' },
+			{text: 'Scanning Paperwork', link: 'en/ultrasound-workflow#3-scan-paperwork' },
 			{text: 'Deleting Images & Series', link: 'en/delete-images' },
 			{text: 'Exam Comments', link: 'en/exam-comments' },
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
