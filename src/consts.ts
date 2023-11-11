@@ -57,7 +57,6 @@ export const SIDEBAR: Sidebar = {
 			{text: 'Exam Comments', link: 'en/exam-comments' },
 			{text: 'Image Viewing Keystrokes', link: 'en/keystrokes' },
 			{text: 'Instant Messenger', link: 'en/instant-message' },
-			{text: 'Query External Image🚧', link: 'en/query-external' },
 		],
 	},
 };
